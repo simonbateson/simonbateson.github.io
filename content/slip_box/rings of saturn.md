@@ -1,7 +1,7 @@
 Zettelcasten Index: 
 Sequence:
 Status: 
-Zettelcasten Tags: 
+Zettelcasten Tags: [[Psychogeography]] [[The Uncanny]]
 
 ---
 
